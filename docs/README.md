@@ -11,4 +11,4 @@ To complain about the book or leave feedback, file an [issue](https://github.com
 
 
 
-![cover](https://github.com/microprediction/home/blob/main/books/cover_choices.png)
+![cover](building_an_open_ai_network/blob/main/assets/images/book_grey.png)
