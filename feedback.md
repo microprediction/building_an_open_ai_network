@@ -1,4 +1,4 @@
-Praise and criticism
+# Praise and criticism
 
 >>Microprediction aims to disrupt what Cotton has coined the 'artisan data science' economy and to bring the cost of all prediction to zero.
 
