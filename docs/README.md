@@ -7,8 +7,4 @@ To complain about the book or leave feedback, file an [issue](https://github.com
 
 
 
-
-
-
-
-![cover](building_an_open_ai_network/blob/main/assets/images/book_grey.png)
+![cover](/building_an_open_ai_network/assets/images/book_cover_with_blurb.png)
