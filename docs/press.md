@@ -25,4 +25,4 @@ call to action to create a utility as transformative as the web itself, one prov
 
 ### Audience profile
 
-Managers, quants, data scientists, machine learning practitioners, analytics consumers of various kinds, and keen observations of the role of analytics in industries such as finance, internet of things, manufacturing, logistics and others requiring real-time operational intelligence and optimization. 
+Managers, quants, data scientists, machine learning practitioners, analytics consumers/observers of various kinds in sectors such as finance, internet of things, manufacturing, transport and others requiring real-time operational intelligence and optimization. 
