@@ -22,3 +22,7 @@ call to action to create a utility as transformative as the web itself, one prov
 
 * A prediction web will address only "half" of statistics, but do so very well, for everyone.  
 
+
+### Audience profile
+
+Managers, quants, data scientists, machine learning practitioners, analytics consumers of various kinds, and keen observations of the role of analytics in industries such as finance, internet of things, manufacturing, logistics and others requiring real-time operational intelligence and optimization. 
