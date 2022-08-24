@@ -27,7 +27,7 @@ call to action to create a utility as transformative as the web itself, one prov
 
 Managers, quants, data scientists, machine learning practitioners, analytics consumers/observers of various kinds in sectors such as finance, internet of things, manufacturing, transport and others requiring real-time operational intelligence and process optimization. 
 
-### Some cut & paste 
+### Some quotes from the book 
 
 In an imagined future where ubiquitous real-time operational intelligence has arrived at zero cost, I have prompted the reader to speculate as to the most likely origin.
 
