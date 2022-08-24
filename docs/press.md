@@ -61,7 +61,7 @@ The price mechanism is an old but miraculous device. But its relative efficacy i
 
 
 
-The question is not ``is reward enough?'' in our existing economy but rather, ``is engineering enough?'' to unleash the price mechanism in a way we haven't seen before. 
+The question is not *is reward enough?* in our existing economy but rather, *is engineering enough?* to unleash the price mechanism in a way we haven't seen before. 
 
 
 
@@ -69,7 +69,7 @@ I've spent most of my career striving to create fine works of mathematical model
 
 
 
-Ours is an untried invisible hand, admittedly, with ``dainty pinkies that never weighed anchor in a storm''. 
+Ours is an untried invisible hand, admittedly, with *dainty pinkies that never weighed anchor in a storm*. 
 
 
 
@@ -89,7 +89,7 @@ In this thought experiment, our preconceived notions about expense and quality o
 
 
 
-The ``central problem'' of machine learning is ... is the question of determining the best system for producing and distributing microprediction to all who need it. 
+The *central problem* of machine learning is ... is the question of determining the best system for producing and distributing microprediction to all who need it. 
 
 
 
