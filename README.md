@@ -5,6 +5,6 @@
 
 Joseph Langsam, PhD, Board Member, ACTUS Financial Research Foundation; former member, Board on Mathematical Sciences and Analytics, National Academies Sciences, Engineering and Medicine; coeditor of Handbook on Systemic Risk
 
-Disagree? No worries you can file an [issue](https://github.com/microprediction/building_an_open_ai_network/issues) and provide constructive feedback. 
+Disagree with Joe? No worries you can file an [issue](https://github.com/microprediction/building_an_open_ai_network/issues).
 
 ![](https://github.com/microprediction/home/blob/main/books/cover_choices.png)
