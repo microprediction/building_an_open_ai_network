@@ -6,4 +6,4 @@ Notes on the book "Microprediction: Building an Open AI Network" expected Nov 20
 - [Praise and Criticism](https://microprediction.github.io/building_an_open_ai_network/feeback.html)
 
 
-![cover](/building_an_open_ai_network/assets/images/book_cover_with_blurb.png)
+![cover](/building_an_open_ai_network/assets/images/book_grey.png)
