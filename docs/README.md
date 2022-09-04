@@ -1,10 +1,9 @@
 Notes on the book "Microprediction: Building an Open AI Network" expected Nov 2022. 
 
-### Feedback
-To complain about the book or leave feedback, file an [issue](https://github.com/microprediction/building_an_open_ai_network/issues). 
 
-
-
+- [Issues](https://github.com/microprediction/building_an_open_ai_network/issues). Feel free to add.  
+- [Errata](https://github.com/microprediction/building_an_open_ai_network/issues/5)
+- [Praise and Criticism](https://microprediction.github.io/building_an_open_ai_network/feeback.html)
 
 
 ![cover](/building_an_open_ai_network/assets/images/book_cover_with_blurb.png)
