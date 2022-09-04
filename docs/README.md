@@ -1,4 +1,4 @@
-Notes on the book "Microprediction: Building an Open AI Network" expected Nov 2022. 
+Notes on the book [Microprediction: Building an Open AI Network](https://mitpress.mit.edu/9780262047326/microprediction/), MIT Press Nov 2022.  
 
 
 - [Issues](https://github.com/microprediction/building_an_open_ai_network/issues). Feel free to add.  
