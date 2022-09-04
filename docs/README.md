@@ -5,7 +5,8 @@ Notes on the book [Microprediction: Building an Open AI Network](https://mitpres
 - [Errata](https://github.com/microprediction/building_an_open_ai_network/issues/5)
 - [Feedback](https://microprediction.github.io/building_an_open_ai_network/feedback.html)
 - [Posts](https://microprediction.github.io/building_an_open_ai_network/social_media.html) and discussion on social media.
-- [Discussion](https://github.com/microprediction/building_an_open_ai_network/discussions) on GitHub. 
+- You can also [discuss](https://github.com/microprediction/building_an_open_ai_network/discussions) on GitHub although there's more liquidity in the
+    microprediction [slack](https://microprediction.github.io/microprediction/slack.html) channel. 
 
 -+-
 
