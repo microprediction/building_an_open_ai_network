@@ -11,4 +11,6 @@ Notes on the book [Microprediction: Building an Open AI Network](https://mitpres
 
 -+-
 
+
+
 ![cover](/building_an_open_ai_network/assets/images/book_grey.png)
