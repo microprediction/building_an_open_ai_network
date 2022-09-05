@@ -4,19 +4,24 @@
 
 >>Cotton is a brilliant, original, 'out of the box' thinker with command of his subject. Cotton's Microprediction is necessary reading for those whose success depends upon data-driven predictions.”
 
-Joseph Langsam, PhD, Board Member, ACTUS Financial Research Foundation; former member, Board on Mathematical Sciences and Analytics, National Academies Sciences, Engineering and Medicine; coeditor of Handbook on Systemic Risk
+Joseph Langsam, PhD, (via [MIT Press](https://mitpress.mit.edu/9780262047326/microprediction/))
+Board Member, ACTUS Financial Research Foundation; former member, Board on Mathematical Sciences and Analytics, National Academies Sciences, Engineering and Medicine; coeditor of Handbook on Systemic Risk
 
 
 >>Microprediction aims to disrupt what Cotton has coined the 'artisan data science' economy and to bring the cost of all prediction to zero.
 
-Graham L. Giller, author of Adventures in Financial Data Science
+Graham L. Giller, PhD (via [MIT Press](https://mitpress.mit.edu/9780262047326/microprediction/))
+Author of Adventures in Financial Data Science
 
+---
 
 >>Peter Cotton surveys the advantages, costs, and pitfalls involved in the real-time crowdsourcing of data and artificial intelligence. Readers will explore the frontier of this increasingly popular and valuable modeling approach, catching a glimpse of where it might someday lead.
 
-William T. Ziemba, University of British Columbia (Emeritus); Distinguished Visiting Research Associate, London School of Economics
+Prof William T. Ziemba, (via [MIT Press](https://mitpress.mit.edu/9780262047326/microprediction/))
+University of British Columbia (Emeritus); 
+Distinguished Visiting Research Associate, London School of Economics
 
-
+---
 
 >> The great playwright and short-story writer Anton Chekhov had hoped for his "brevity is the soul of wit" to be put to good use. The dictum is even more applicable to a mathematically inclined subject such as machine learning, and although the laconic strength of mathematical symbolism would have allowed for an easier task, the author has written the book on AI mostly in the compressed vernacular - to "influence the perception of quantitative work and its future" for a much wider audience. As for a quant that runs aground on the technical clumsiness of the underlying data pipelines world of today, the brilliant exploration of fascinating novel ideas is a breath of fresh air: from statistical crowd-sourcing to interplay between software-engineered oracles and reinforcement learning to temporal difference.
 
@@ -26,3 +31,7 @@ William T. Ziemba, University of British Columbia (Emeritus); Distinguished Visi
 
 Azat Aslanov, PhD (via [Goodreads](https://www.goodreads.com/book/show/60323335-microprediction))
 Senior Data and Systems Analyst, QBE Insurance
+
+---
+
+
