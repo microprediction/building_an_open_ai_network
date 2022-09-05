@@ -5,3 +5,12 @@ Some social media posts about the book
 - [Announcement](https://www.linkedin.com/posts/petercotton_github-micropredictionbuildinganopenainetwork-activity-6968946425397215232-0UnC?utm_source=share&utm_medium=member_desktop)
 - [Algo Fight Club](https://www.linkedin.com/posts/petercotton_submitting-predictions-activity-6962851167122907136-m9sP?utm_source=share&utm_medium=member_desktop)
 
+
+
+
+
+
+-+-
+
+[home](https://microprediction.github.io/building_an_open_ai_network/)
+
