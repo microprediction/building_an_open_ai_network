@@ -24,5 +24,5 @@ William T. Ziemba, University of British Columbia (Emeritus); Distinguished Visi
 
 >> Moreover, the author generously brings a reader to the "greenfield" of opportunities to actively get involved in the cutting edge AI as deep as one can get to, where the usual suspects are paper, pencil and Python.
 
-Azat Aslanov, PhD
+Azat Aslanov, PhD (via [Goodreads](https://www.goodreads.com/book/show/60323335-microprediction))
 Senior Data and Systems Analyst, QBE Insurance
