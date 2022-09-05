@@ -34,4 +34,5 @@ Senior Data and Systems Analyst, QBE Insurance
 
 ---
 
+[home](https://microprediction.github.io/building_an_open_ai_network/)
 
