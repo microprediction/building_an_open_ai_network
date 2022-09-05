@@ -95,3 +95,10 @@ Managers, quants, data scientists, machine learning practitioners, analytics con
 
 
 >> The implication is that microprediction might require the entire world to collectively engineer - something of a desperate measure, it might seem - though consider what has already been tried.
+
+
+
+
+-+-
+
+[home](https://microprediction.github.io/building_an_open_ai_network/)
