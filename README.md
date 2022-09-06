@@ -2,7 +2,7 @@
 
 >> Cotton is a brilliant, original, 'out of the box' thinker with command of his subject. 
 
-Joseph Langsam, PhD, Board Member, ACTUS Financial Research Foundation; former member, Board on Mathematical Sciences and Analytics, National Academies Sciences, Engineering and Medicine; coeditor of Handbook on Systemic Risk
+Joseph Langsam, PhD, Coeditor of Handbook on Systemic Risk
 
 Disagree with Joe? No worries you can file an [issue](https://github.com/microprediction/building_an_open_ai_network/issues).
 
