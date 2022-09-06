@@ -1,4 +1,4 @@
-# The Microprediction [Book](https://mitpress.mit.edu/9780262047326/microprediction/) [Website](https://microprediction.github.io/building_an_open_ai_network/)
+## Source for the Microprediction [book](https://mitpress.mit.edu/9780262047326/microprediction/) [website](https://microprediction.github.io/building_an_open_ai_network/)
 
 >> Cotton is a brilliant, original, 'out of the box' thinker with command of his subject. 
 
