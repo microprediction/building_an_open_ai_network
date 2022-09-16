@@ -10,9 +10,9 @@ imposters preciding over their precious protectionist pyramids of pricy people, 
 of Python-powered predators achieves production power parity - a partial Pigou phenominom pricking 
 probabilistic pomposity.
 
-Well, I suppose it is more likely than someone finding a use for blockchain. Though I fear the book might sell about as many
-copies as there are contributors to the project, leading to a collapse in the secondary market and a forecasting
-regime change that would leave even the most nimble prediction supply chain in disarray. 
+Well, I suppose it is more likely than someone finding a use for blockchain or factoring 42 on a quantum computer. 
+Though I fear the book might sell about as many copies as there are contributors to the project, leading to a collapse
+in the secondary market and a forecasting regime change that would leave even the most nimble prediction supply chain in disarray. 
 
 Either way, this book will eventually be hard to beat as judged by the ratio of accuracy to cost.
 
