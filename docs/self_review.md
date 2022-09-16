@@ -8,7 +8,7 @@ parimutuel party in the periphery progress percentile prediction to peak potency
 This is preposterous, and yet potentially problematic, even painful, for a plutocracy of platonic
 imposters preciding over their precious protectionist pyramids of pricy people, once a population 
 of Python-powered predators achieves production power parity - a partial Pigou phenominom pricking 
-probabilistic pomposity!
+probabilistic pomposity.
 
 Well, I suppose it is more likely than someone finding a use for blockchain. Though I fear the book might sell about as many
 copies as there are contributors to the project, leading to a collapse in the secondary market and a forecasting
