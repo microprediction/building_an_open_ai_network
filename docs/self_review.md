@@ -14,5 +14,5 @@ Well, I suppose it is more likely than someone finding a use for blockchain or f
 Though I fear the book might sell about as many copies as there are contributors to the project, leading to a collapse
 in the secondary market and a forecasting regime change that would leave even the most nimble prediction supply chain in disarray. 
 
-Either way, this book will eventually be hard to beat as judged by the ratio of accuracy to cost.
+Either way, on an accuracy to cost basis, this book will eventually be hard to beat.
 
