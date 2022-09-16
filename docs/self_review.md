@@ -2,7 +2,7 @@
 
 Will data science will be Hayak'd by nano-noodling nimphs 
 provoked by the pursuit of primitive penalties into participating in percipient, probabilistic prophesy, one where their product
-permeates privacy and property precautious, and promotes public-private positive profit propensity? Will a phasmagorical
+permeates privacy and property precautious, and promotes public-private positive profit propensity? Or will a phasmagorical
 parimutuel party in the periphery progress percentile prediction to peak potency? 
 
 This is preposterous, and yet potentially problematic, even painful, for a plutocracy of platonic
