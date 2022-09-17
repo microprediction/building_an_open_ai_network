@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>Microprediction: Building An Open AI Network</title>
+ <description>An audio recording of Microprediction: Building An Open AI Network by the author
+  </description>
+ <link>https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3</link>
+ <copyright>2020 Peter Cotton All rights reserved</copyright>
+ <lastBuildDate>Mon, 6 September 2022 00:01:00 +0000</lastBuildDate>
+ <pubDate>Sun, 19 September 2022 16:20:00 +0000</pubDate>
+ <ttl>1800</ttl>
+
+ <item>
+  <title>Chapter1</title>
+  <description>Microprediction Chapter 1</description>
+  <link>https://github.com/microprediction/building_an_open_ai_network/blob/main/docs/assets/audio/Microprediction_Chapter_1.mp3</link>
+  <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
+  <pubDate>Sun, 6 September 2009 16:20:00 +0000</pubDate>
+ </item>
+
+</channel>
+</rss>
