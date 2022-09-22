@@ -5,7 +5,7 @@ Will data science will be Hayak'd by nano-noodling nimphs?
 Will these primitive players be provoked by proper penalties into participating in percipient, probabilistic prophesy - one where their privacy-preserving product permeates Pigovian and property precautious, and promotes public-private positive profit propensity? Will a phasmagorical parimutuel party in the periphery progress percentile prediction to peak potency? 
 
 This is preposterous, and yet once a population of Python-powered predators provides production power parity
-and pricks probabilistic pomposity, this could be potentially problematic, even painful, for a plutocracy of platonic
+and pricks probabilistic pomposity, it is potentially problematic, even painful, for a plutocracy of platonic
 imposters preciding over precious protected pyramids of pricy Ph.D.s.  
 
 The scenarios is marginally more likely than someone finding a use for blockchain or factoring 42 on a quantum computer, though it is also
