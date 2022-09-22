@@ -1,6 +1,6 @@
 
 
-Will data science will be Hayak'd by nano-noodling nimphs
+Will data science will be Hayak'd by nano-noodling nimphs?
 
 Will these primitive players be provoked by proper penalties into participating in percipient, probabilistic prophesy - one where their product permeates privacy, Pigovian and property precautious, and promotes public-private positive profit propensity? Will a phasmagorical
 parimutuel party in the periphery progress percentile prediction to peak potency? 
