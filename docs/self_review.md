@@ -7,7 +7,7 @@ parimutuel party in the periphery progress percentile prediction to peak potency
 
 This is preposterous, and yet once a population of Python-powered predators provides production power parity
 and pricks probabilistic pomposity, this could be potentially problematic, even painful, for a plutocracy of platonic
-imposters preciding over their precious protectionist pyramids of pricy Ph.D.s.  
+imposters preciding over precious protected pyramids of pricy Ph.D.s.  
 
 The scenarios is marginally more likely than someone finding a use for blockchain or factoring 42 on a quantum computer, though it is also
 possible that the book sells about as many copies as there are contributors to the project, leading to a collapse
