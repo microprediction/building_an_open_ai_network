@@ -9,9 +9,10 @@ This is preposterous, and yet potentially problematic, even painful, for a pluto
 imposters preciding over their precious protectionist pyramids of pricy people, once a population 
 of Python-powered predators achieves production power parity and pricks probabilistic pomposity. 
 
-Well, I suppose it is more likely than someone finding a use for blockchain or factoring 42 on a quantum computer. 
-Though I fear the book might sell about as many copies as there are contributors to the project, leading to a collapse
-in the secondary market and a forecasting regime change that would leave even the most nimble prediction supply chain in disarray. 
+It is more likely than someone finding a use for blockchain or factoring 42 on a quantum computer, though it is also
+possible that the book sells about as many copies as there are contributors to the project, leading to a collapse
+in the secondary market and a forecasting regime change that would leave the most nimble microprediction 
+supply chain in disarray. 
 
 Either way, the ratio of accuracy to cost of this book will eventually be hard to beat. 
 
