@@ -8,7 +8,9 @@ This is preposterous, and yet once a population of Python-powered predators prov
 and pricks probabilistic pomposity, it is potentially problematic, even painful, for a plutocracy of platonic
 imposters preciding over precious protected pyramids of pricy Ph.D.s.  
 
-The scenarios is marginally more likely than someone finding a use for blockchain or factoring 42 on a quantum computer, though it is also
+How likely is it? 
+
+More so than someone finding a use for blockchain or factoring 42 on a quantum computer, but it is also
 possible that the book sells about as many copies as there are contributors to the project, leading to a collapse
 in the secondary market and a forecasting regime change that would leave the most nimble microprediction 
 supply chain in disarray. 
