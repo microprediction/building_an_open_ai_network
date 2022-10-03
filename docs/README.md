@@ -8,6 +8,7 @@ Notes on the book [Microprediction: Building an Open AI Network](https://mitpres
 - [Discussion](https://github.com/microprediction/building_an_open_ai_network/discussions) on GitHub (there's more liquidity in the
     microprediction [slack](https://microprediction.github.io/microprediction/slack.html) channel). 
 - [Audio](https://github.com/microprediction/building_an_open_ai_network/tree/main/docs/assets/audio) of questionable quality. 
+- [Response](https://github.com/microprediction/building_an_open_ai_network/discussions/13) to "it doesn't exist yet!". 
 
 Remember you can [instantly participate](https://microprediction.github.io/microprediction/setup) on linux or macosx. 
 
