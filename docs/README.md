@@ -18,4 +18,4 @@ View as [web page](https://microprediction.github.io/building_an_open_ai_network
 
 
 
-![cover](/building_an_open_ai_network/assets/images/book_grey.png)
+![cover](/building_an_open_ai_network/assets/images/cotton_microprediction_3d_down.png)
