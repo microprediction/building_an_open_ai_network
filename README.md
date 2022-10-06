@@ -1,9 +1,4 @@
-## Source for the microprediction [book](https://mitpress.mit.edu/9780262047326/microprediction/)'s [website](https://microprediction.github.io/building_an_open_ai_network/)
+## View as [website](https://microprediction.github.io/building_an_open_ai_network/)
 
->> Cotton is a brilliant, original, 'out of the box' thinker with command of his subject. 
 
-Joseph Langsam, PhD, Coeditor of Handbook on Systemic Risk
-
-Disagree with Joe? No worries you can file an [issue](https://github.com/microprediction/building_an_open_ai_network/issues).
-
-![](https://github.com/microprediction/home/blob/main/books/cover_choices.png)
+![](https://github.com/microprediction/home/blob/main/books/cotton_microprediction_3d_side.png)
