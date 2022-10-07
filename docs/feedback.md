@@ -23,12 +23,11 @@ Distinguished Visiting Research Associate, London School of Economics
 
 ---
 
-In contrast (to GA) a microprediction network takes the algorithms out of the controlled ecosystem of a GA simulator, and puts them into the real world. Rather than being randomly spawned, these prediction engines would be carefully created by a wide network of freelance or moonlighting data scientists, or firms specialising in the business of prediction. Instead of survival, good algos are rewarded with hard cash – or rather their creators are – whilst bad ones are quietly ignored and eventually wither away. Importantly, as the marginal cost of making a single prediction is likely to be extremely low, it’s possible for even the smallest grocery store to access a distributed network of expert forecasters that would be the envy of any tech company behemoth.
+>>In contrast (to GA) a microprediction network takes the algorithms out of the controlled ecosystem of a GA simulator, and puts them into the real world. Rather than being randomly spawned, these prediction engines would be carefully created by a wide network of freelance or moonlighting data scientists, or firms specialising in the business of prediction. Instead of survival, good algos are rewarded with hard cash – or rather their creators are – whilst bad ones are quietly ignored and eventually wither away. Importantly, as the marginal cost of making a single prediction is likely to be extremely low, it’s possible for even the smallest grocery store to access a distributed network of expert forecasters that would be the envy of any tech company behemoth.
 
-It might be that a worldwide microprediction network will emerge spontaneously, but this seems unlikely without the buy in of technology gatekeepers whose interests are unlikely to be aligned with the idea of open access to AI. But there may be another way. The original internet was incubated by the US government, with standards such as TCP/IP agreed amongst a small group of experts. Creating a “prediction internet” may require a similar initiative.
+>>It might be that a worldwide microprediction network will emerge spontaneously, but this seems unlikely without the buy in of technology gatekeepers whose interests are unlikely to be aligned with the idea of open access to AI. But there may be another way. The original internet was incubated by the US government, with standards such as TCP/IP agreed amongst a small group of experts. Creating a “prediction internet” may require a similar initiative.
 
 Robert Carver
-
 ... see the [full review](https://riskyfinance.com/2022/09/22/microprediction-building-an-open-ai-network/) in Risky Finance
 
 ___
