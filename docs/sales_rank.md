@@ -8,3 +8,5 @@ Category: Artificial Intelligence and Semantics
    | Sep 3  | 287       | 239,371   |
    | Sep 14 | 143       | 179,659   |
    | Oct 7  | 79        |  72,450   |
+   | Oct 19 | 279       |  241,068  | <-- Right before emails
+   
