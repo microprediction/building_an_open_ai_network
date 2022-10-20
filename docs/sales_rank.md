@@ -10,4 +10,6 @@ Category: Artificial Intelligence and Semantics
    | Oct 7  | 79        |  72,450   |        |
    | Oct 19 | 279       |  241,068  | Email start |
    | Oct 20 | 69        | 72,156    | 9:36am      |
+   | Oct 20 | 58        | 59,762    | 3:40pm      | 
+   
    
