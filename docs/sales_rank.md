@@ -12,5 +12,6 @@ Category: Artificial Intelligence and Semantics
    | Oct 20 | 69        | 72,156    | 9am      |
    | Oct 20 | 58        | 59,762    | 4pm      | 
    | Oct 21 | 40        | 52,000    | 9am      |
+   | Nov 2  | 40        | 44,000    | 19th in kindle        |
    
    
