@@ -6,6 +6,22 @@
 Joseph Langsam, PhD, (via [MIT Press](https://mitpress.mit.edu/9780262047326/microprediction/))
 Board Member, ACTUS Financial Research Foundation; former member, Board on Mathematical Sciences and Analytics, National Academies Sciences, Engineering and Medicine; coeditor of Handbook on Systemic Risk
 
+
+---
+
+>> Excellent read (note: You may not agree with every point made) Peter’s deep knowledge of AI/ML/DS domains, combined with expertise in crowdsourcing & belief in the fundamental power of markets provide a very solid argument for building open AI networks that can serve as public utility (creating novel approaches that can even outperform “SOTA” models)
+
+Mark Trinquero. AWS Solutions Architect. 
+
+---
+
+>> Important contribution to development of real world applied AI/ML at scale.
+
+>> Brilliant book
+
+
+From [amazon reviews](https://www.amazon.com/product-reviews/0262047322/ref=cm_cr_arp_d_show_all?ie=UTF8&reviewerType=all_reviews&pageNumber=1#reviews-filter-bar). 
+
 ---
 
 >>Microprediction aims to disrupt what Cotton has coined the 'artisan data science' economy and to bring the cost of all prediction to zero.
