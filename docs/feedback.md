@@ -1,7 +1,8 @@
-# Praise and criticism for the [book](https://mitpress.mit.edu/9780262047326/microprediction/) 
+# Awards, praise and criticism for the [book](https://mitpress.mit.edu/9780262047326/microprediction/) 
 
 Named [Quant Book of the Year](https://www.einnews.com/pr_news/607159555/microprediction-named-quant-book-of-the-year-by-rebellion-research) by Rebellion Research, host of the MIT Quant and AI Conference. 
 
+---
 
 >>Cotton is a brilliant, original, 'out of the box' thinker with command of his subject. Cotton's Microprediction is necessary reading for those whose success depends upon data-driven predictions.”
 
