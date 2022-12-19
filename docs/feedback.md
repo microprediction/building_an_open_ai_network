@@ -71,21 +71,14 @@ Distinguished Visiting Research Associate, London School of Economics
 
 ---
 
->>In contrast (to GA) a microprediction network takes the algorithms out of the controlled ecosystem of a GA simulator, and puts them into the real world. Rather than being randomly spawned, these prediction engines would be carefully created by a wide network of freelance or moonlighting data scientists, or firms specialising in the business of prediction. Instead of survival, good algos are rewarded with hard cash – or rather their creators are – whilst bad ones are quietly ignored and eventually wither away. Importantly, as the marginal cost of making a single prediction is likely to be extremely low, it’s possible for even the smallest grocery store to access a distributed network of expert forecasters that would be the envy of any tech company behemoth.
+>> "visionary book"
 
->>It might be that a worldwide microprediction network will emerge spontaneously, but this seems unlikely without the buy in of technology gatekeepers whose interests are unlikely to be aligned with the idea of open access to AI. But there may be another way. The original internet was incubated by the US government, with standards such as TCP/IP agreed amongst a small group of experts. Creating a “prediction internet” may require a similar initiative.
-
-Robert Carver
-... see the [full review](https://riskyfinance.com/2022/09/22/microprediction-building-an-open-ai-network/) in Risky Finance
+Robert Carver [full review](https://riskyfinance.com/2022/09/22/microprediction-building-an-open-ai-network/) in Risky Finance
 
 ___
 
 
->> The great playwright and short-story writer Anton Chekhov had hoped for his "brevity is the soul of wit" to be put to good use. The dictum is even more applicable to a mathematically inclined subject such as machine learning, and although the laconic strength of mathematical symbolism would have allowed for an easier task, the author has written the book on AI mostly in the compressed vernacular - to "influence the perception of quantitative work and its future" for a much wider audience. As for a quant that runs aground on the technical clumsiness of the underlying data pipelines world of today, the brilliant exploration of fascinating novel ideas is a breath of fresh air: from statistical crowd-sourcing to interplay between software-engineered oracles and reinforcement learning to temporal difference.
-
->> Yes, I like to think of the book more as a play where its main characters "hungry micromanagers" increasingly populate the web of predictions on nano levels....and as an infinite number of infinitesimals can be summed up to calculate an integral, the author argues for clever utilisation of prediction efforts governed through micromanagement (pun intended but no spoilers here!) to build an open-source prediction web where one of the outcomes is bespoke AI on tap. Howzat?! My initial impression was that of new metamathematics for machine learning algorithms - structure-wise somewhat akin to G\''odel numberings.
-
->> Moreover, the author generously brings a reader to the "greenfield" of opportunities to actively get involved in the cutting edge AI as deep as one can get to, where the usual suspects are paper, pencil and Python.
+>> "the brilliant exploration of fascinating novel ideas is a breath of fresh air"
 
 Azat Aslanov, PhD (via [Goodreads](https://www.goodreads.com/book/show/60323335-microprediction))
 Senior Data and Systems Analyst, QBE Insurance
