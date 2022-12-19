@@ -6,6 +6,12 @@
 Joseph Langsam, PhD, (via [MIT Press](https://mitpress.mit.edu/9780262047326/microprediction/))
 Board Member, ACTUS Financial Research Foundation; former member, Board on Mathematical Sciences and Analytics, National Academies Sciences, Engineering and Medicine; coeditor of Handbook on Systemic Risk
 
+---
+
+>> the brilliant exploration of fascinating novel ideas is a breath of fresh air
+
+Azat Aslanov, PhD (via [Goodreads](https://www.goodreads.com/book/show/60323335-microprediction))
+Senior Data and Systems Analyst, QBE Insurance
 
 ---
 
@@ -15,8 +21,6 @@ Mark Trinquero. AWS Solutions Architect.
 
 ---
 
->> Important contribution to development of real world applied AI/ML at scale.
-
 >> Brilliant book
 
 
@@ -24,7 +28,7 @@ From [amazon reviews](https://www.amazon.com/product-reviews/0262047322/ref=cm_c
 
 ---
 
->> "masterful" 
+>> Masterful 
 
 [Chris Hanlon](https://www.linkedin.com/posts/chrishanlon41_thanks-and-congrats-to-peter-cotton-for-this-activity-7006063342142242817-44Dy?utm_source=share&utm_medium=member_desktop)
 
@@ -49,6 +53,11 @@ Prof William T. Ziemba, (via [MIT Press](https://mitpress.mit.edu/9780262047326/
 University of British Columbia (Emeritus); 
 Distinguished Visiting Research Associate, London School of Economics
 
+---
+
+>> Important contribution to development of real world applied AI/ML at scale.
+
+From [amazon reviews](https://www.amazon.com/product-reviews/0262047322/ref=cm_cr_arp_d_show_all?ie=UTF8&reviewerType=all_reviews&pageNumber=1#reviews-filter-bar). 
 
 ---
 
@@ -71,19 +80,13 @@ Distinguished Visiting Research Associate, London School of Economics
 
 ---
 
->> "visionary book"
+>> visionary book
 
 Robert Carver [full review](https://riskyfinance.com/2022/09/22/microprediction-building-an-open-ai-network/) in Risky Finance
 
 ___
 
 
->> "the brilliant exploration of fascinating novel ideas is a breath of fresh air"
-
-Azat Aslanov, PhD (via [Goodreads](https://www.goodreads.com/book/show/60323335-microprediction))
-Senior Data and Systems Analyst, QBE Insurance
-
----
 
 [home](https://microprediction.github.io/building_an_open_ai_network/)
 
