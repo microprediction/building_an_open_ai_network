@@ -1,4 +1,4 @@
-# Awards, praise and criticis
+# Awards, praise, reviews
 
 The [book](https://mitpress.mit.edu/9780262047326/microprediction/). 
 
