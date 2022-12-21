@@ -18,6 +18,13 @@ Board Member, ACTUS Financial Research Foundation; former member, Board on Mathe
 
 ---
 
+
+>> Very interesting book. I bought two because it is so good
+
+Scott Treloar, CIO Noviscient [post](https://www.linkedin.com/feed/update/urn:li:activity:7011135628733988864?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7011135628733988864%2C7011173109986729984%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287011173109986729984%2Curn%3Ali%3Aactivity%3A7011135628733988864%29)
+
+---
+
 >> the brilliant exploration of fascinating novel ideas is a breath of fresh air
 
 Azat Aslanov, PhD (via [Goodreads](https://www.goodreads.com/book/show/60323335-microprediction))
@@ -28,7 +35,7 @@ Senior Data and Systems Analyst, QBE Insurance
 
 >> A fascinating, different, thought provoking view and proposal for predictive Data Science
 
-[Michael Tselman](https://www.linkedin.com/posts/michaeltselman_peter-cotton-is-my-companion-for-todays-activity-7010953216074936321-eq3b?utm_source=share&utm_medium=member_desktop). AI architect and senior engineer. 
+Michael Tselman's [post](https://www.linkedin.com/posts/michaeltselman_peter-cotton-is-my-companion-for-todays-activity-7010953216074936321-eq3b?utm_source=share&utm_medium=member_desktop). AI architect and senior engineer. 
 
 ---
 
