@@ -52,6 +52,12 @@ From [amazon reviews](https://www.amazon.com/product-reviews/0262047322/ref=cm_c
 
 ---
 
+>> Those expecting bland generalization to sell another "AI book" for the heck of it are in for a shock
+
+[amazon reviews](https://www.amazon.com/product-reviews/0262047322/ref=cm_cr_arp_d_show_all?ie=UTF8&reviewerType=all_reviews&pageNumber=1#reviews-filter-bar). 
+
+---
+
 >> Masterful 
 
 [Chris Hanlon](https://www.linkedin.com/posts/chrishanlon41_thanks-and-congrats-to-peter-cotton-for-this-activity-7006063342142242817-44Dy?utm_source=share&utm_medium=member_desktop)
