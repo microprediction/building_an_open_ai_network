@@ -41,7 +41,7 @@ Michael Tselman's [post](https://www.linkedin.com/posts/michaeltselman_peter-cot
 
 >> Excellent read (note: You may not agree with every point made) Peter’s deep knowledge of AI/ML/DS domains, combined with expertise in crowdsourcing & belief in the fundamental power of markets provide a very solid argument for building open AI networks that can serve as public utility (creating novel approaches that can even outperform “SOTA” models)
 
-Mark Trinquero. AWS Solutions Architect. 
+Mark Trinquero. AWS Solutions Architect. [amazon reviews](https://www.amazon.com/product-reviews/0262047322/ref=cm_cr_arp_d_show_all?ie=UTF8&reviewerType=all_reviews&pageNumber=1#reviews-filter-bar)
 
 ---
 
