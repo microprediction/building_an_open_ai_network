@@ -1,4 +1,6 @@
-# Awards, praise and criticism for the [book](https://mitpress.mit.edu/9780262047326/microprediction/) 
+# Awards, praise and criticis
+
+The [book](https://mitpress.mit.edu/9780262047326/microprediction/). 
 
 ### Awards
 
