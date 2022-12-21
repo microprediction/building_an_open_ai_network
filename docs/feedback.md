@@ -21,6 +21,13 @@ Board Member, ACTUS Financial Research Foundation; former member, Board on Mathe
 Azat Aslanov, PhD (via [Goodreads](https://www.goodreads.com/book/show/60323335-microprediction))
 Senior Data and Systems Analyst, QBE Insurance
 
+
+---
+
+>> A fascinating, different, thought provoking view and proposal for predictive Data Science
+
+[Michael Tselman](https://www.linkedin.com/posts/michaeltselman_peter-cotton-is-my-companion-for-todays-activity-7010953216074936321-eq3b?utm_source=share&utm_medium=member_desktop). AI architect and senior engineer. 
+
 ---
 
 >> Excellent read (note: You may not agree with every point made) Peter’s deep knowledge of AI/ML/DS domains, combined with expertise in crowdsourcing & belief in the fundamental power of markets provide a very solid argument for building open AI networks that can serve as public utility (creating novel approaches that can even outperform “SOTA” models)
