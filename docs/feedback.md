@@ -14,7 +14,7 @@ The [book](https://mitpress.mit.edu/9780262047326/microprediction/).
 >>Cotton is a brilliant, original, 'out of the box' thinker with command of his subject. Cotton's Microprediction is necessary reading for those whose success depends upon data-driven predictions.”
 
 Joseph Langsam, PhD, (via [MIT Press](https://mitpress.mit.edu/9780262047326/microprediction/))
-Board Member, ACTUS Financial Research Foundation; former member, Board on Mathematical Sciences and Analytics, National Academies Sciences, Engineering and Medicine; coeditor of Handbook on Systemic Risk
+Board on Mathematical Sciences and Analytics, National Academies Sciences, Engineering and Medicine; coeditor of Handbook on Systemic Risk
 
 ---
 
