@@ -2,7 +2,7 @@
 
 The [book](https://mitpress.mit.edu/9780262047326/microprediction/). 
 
-### Awards & Notariety
+### Awards & Notoriety
 
 * Named [Quant Book of the Year](https://www.einnews.com/pr_news/607159555/microprediction-named-quant-book-of-the-year-by-rebellion-research) by Rebellion Research, host of the MIT Quant and AI Conference. 
 
