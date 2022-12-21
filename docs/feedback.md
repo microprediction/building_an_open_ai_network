@@ -58,9 +58,15 @@ From [amazon reviews](https://www.amazon.com/product-reviews/0262047322/ref=cm_c
 
 ----
 
->>> GO BUY THE BOOK. It’s very good
+>> GO BUY THE BOOK. It’s very good
 
 [Henry Elgrissy](https://www.linkedin.com/posts/petercotton_microprediction-building-an-open-ai-network-activity-7009337240870862848-J1jN?utm_source=share&utm_medium=member_desktop)
+
+___ 
+
+>> This is definitley one of my favorite books!!
+
+Curtis Raymond, Data Science Manager, Priceline [comment](https://www.linkedin.com/feed/update/urn:li:activity:7010953216074936321?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7010953216074936321%2C7011323407220826112%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287011323407220826112%2Curn%3Ali%3Aactivity%3A7010953216074936321%29)
 
 ---
 
