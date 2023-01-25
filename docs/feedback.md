@@ -4,6 +4,8 @@ The [book](https://mitpress.mit.edu/9780262047326/microprediction/).
 
 ### Awards & Notoriety
 
+* Selected in MIT Press [Top books of 2022](https://www.linkedin.com/posts/petercotton_the-best-of-2022-activity-7023032692648603648-PE-8?utm_source=share&utm_medium=member_desktop). 
+
 * Named [Quant Book of the Year](https://www.einnews.com/pr_news/607159555/microprediction-named-quant-book-of-the-year-by-rebellion-research) by Rebellion Research, host of the MIT Quant and AI Conference. 
 
 * Analytics India [Must read 2022](https://analyticsindiamag.com/must-read-ai-books-released-in-2022/)
