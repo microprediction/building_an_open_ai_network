@@ -20,6 +20,12 @@ Board on Mathematical Sciences and Analytics, National Academies Sciences, Engin
 
 ---
 
+>> Peter Cotton might not be 'the man who solved the market', but his book sure has a lot of insights and a vision on how to solve many data-related problems companies (of any size) will be facing in the very next future. Microprediction might have a serious and corporate looking front cover, but don't let that fool you. Inside you'll find a witty and engaging read, rarely seen in books dealing with such topics.
+
+Allesandro Chiruzzi [post](https://www.linkedin.com/posts/alechrz_microprediction-activity-7024768364598198272-26LG?utm_source=share&utm_medium=member_desktop)
+
+___
+
 
 >> Very interesting book. I bought two because it is so good
 
