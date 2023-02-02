@@ -51,7 +51,7 @@ See [post](https://www.linkedin.com/feed/update/urn:li:activity:7011135628733988
 Azat Aslanov, PhD 
 Senior Data and Systems Analyst, QBE Insuranc
 
->> the brilliant exploration of fascinating novel ideas is a breath of fresh air
+>> As for a quant that runs aground on the technical clumsiness of the underlying data pipelines world of today, the brilliant exploration of fascinating novel ideas is a breath of fresh air: from statistical crowd-sourcing to interplay between software-engineered oracles and reinforcement learning to temporal difference.
 
 See full [review](https://www.goodreads.com/book/show/60323335-microprediction) in Goodreads.
 
@@ -91,7 +91,7 @@ See [post](https://www.linkedin.com/posts/vacslav-glukhov_microprediction-buildi
 
 Robert Carver, Writer and Trader. 
 
->> visionary book
+>> Visionary book
 
 See [full review](https://riskyfinance.com/2022/09/22/microprediction-building-an-open-ai-network/) in Risky Finance
 
