@@ -13,6 +13,8 @@ The [book](https://mitpress.mit.edu/9780262047326/microprediction/) is ranked 5 
 
 ### Reviewers and social media recommendations
 
+---
+
 Joseph Langsam, PhD,
 Board on Mathematical Sciences and Analytics, National Academies Sciences, Engineering and Medicine; coeditor of Handbook on Systemic Risk
 
