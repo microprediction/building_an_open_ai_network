@@ -22,7 +22,7 @@ See [MIT Press](https://mitpress.mit.edu/9780262047326/microprediction/).
 
 ---
 
-Matthew Kolakowski
+Matthew Kolakowski, Data Scientist
 
 >> If you want to read a book that will open your mind to new horizons on prediction, buy this one now. Peter takes a fantastic approach and examines the possibilities of microprediction. Great book and a must have on your data science reading list.
 
@@ -30,7 +30,7 @@ See [post](https://www.linkedin.com/posts/outcastdatascientist_datascience-techn
 
 ---
 
-Allesandro Chiruzzi
+Allesandro Chiruzzi, Lead Data Scientist
 
 >> Peter Cotton might not be 'the man who solved the market', but his book sure has a lot of insights and a vision on how to solve many data-related problems companies (of any size) will be facing in the very next future. Microprediction might have a serious and corporate looking front cover, but don't let that fool you. Inside you'll find a witty and engaging read, rarely seen in books dealing with such topics.
 
@@ -55,12 +55,19 @@ See full [review](https://www.goodreads.com/book/show/60323335-microprediction) 
 
 ---
 
-Michael Tselman
-AI architect and senior engineer 
+Michael Tselman, AI architect and senior engineer 
 
 >> A fascinating, different, thought provoking view and proposal for predictive Data Science
 
 See [post](https://www.linkedin.com/posts/michaeltselman_peter-cotton-is-my-companion-for-todays-activity-7010953216074936321-eq3b?utm_source=share&utm_medium=member_desktop). 
+
+---
+
+Chris Hanlon, CFO at DirectBooks
+
+>> Masterful 
+
+See [post](https://www.linkedin.com/posts/chrishanlon41_thanks-and-congrats-to-peter-cotton-for-this-activity-7006063342142242817-44Dy?utm_source=share&utm_medium=member_desktop)
 
 ---
 
@@ -72,11 +79,19 @@ See [amazon reviews](https://www.amazon.com/product-reviews/0262047322/ref=cm_cr
 
 ---
 
-Vacslav Glukov
+Vacslav Glukov, AI Research, Engineering
 
 >> You may agree or disagree with some points, it may take some time to get used to the author's style (for those who never read Peter's texts before). But - what a joy!
 
 See [post](https://www.linkedin.com/posts/vacslav-glukhov_microprediction-building-an-open-ai-network-activity-6996051627493199872-gz0s?utm_source=share&utm_medium=member_desktop)
+
+---
+
+Robert Carver, Writer and Trader. 
+
+>> visionary book
+
+See [full review](https://riskyfinance.com/2022/09/22/microprediction-building-an-open-ai-network/) in Risky Finance
 
 ---
 
@@ -93,14 +108,6 @@ Anon
 >> Those expecting bland generalization to sell another "AI book" for the heck of it are in for a shock.
 
 [amazon reviews](https://www.amazon.com/product-reviews/0262047322/ref=cm_cr_arp_d_show_all?ie=UTF8&reviewerType=all_reviews&pageNumber=1#reviews-filter-bar). 
-
----
-
-Chris Hanlon
-
->> Masterful 
-
-See [post](https://www.linkedin.com/posts/chrishanlon41_thanks-and-congrats-to-peter-cotton-for-this-activity-7006063342142242817-44Dy?utm_source=share&utm_medium=member_desktop)
 
 ----
 
@@ -157,13 +164,6 @@ See [post](https://www.linkedin.com/posts/georg-m-goerg_chatgpt-timeseries-chatg
 
 ---
 
-Robert Carver, Writer and Trader. 
-
->> visionary book
-
-See [full review](https://riskyfinance.com/2022/09/22/microprediction-building-an-open-ai-network/) in Risky Finance
-
-___
 
 
 
