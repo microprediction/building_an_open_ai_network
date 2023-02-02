@@ -15,6 +15,15 @@ The [book](https://mitpress.mit.edu/9780262047326/microprediction/) is ranked 5 
 
 ---
 
+Oledkssy Lialka, Data Scientist, Kiarna
+
+>> Microprediction by Peter Cotton is a smart read. The author lays down the foundations of greenfield mass prediction as a service with an economic rationale and a high-level system design vision. The evolution alike we've already seen with the cloud infrastructure. The read is dense and packed with statistics, economics, and optimal control, all intertwined into a cohesive and engaging story. Remember to throw it into your weekender bag. Trust me, you will enjoy it.
+
+See [post](https://www.linkedin.com/posts/olekssy_statistics-microprediction-datascience-activity-7026861568554328064-G7Es?utm_source=share&utm_medium=member_desktop)
+
+
+---
+
 Joseph Langsam, PhD,
 Board on Mathematical Sciences and Analytics, National Academies Sciences, Engineering and Medicine; coeditor of Handbook on Systemic Risk
 
