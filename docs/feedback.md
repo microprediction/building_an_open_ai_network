@@ -1,6 +1,6 @@
 # Feedback
 
-The [book](https://mitpress.mit.edu/9780262047326/microprediction/) is ranked 5 stars by [all reviewers](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322#customerReviews) on Amazon.  
+The [book](https://mitpress.mit.edu/9780262047326/microprediction/) is rated 5 stars by [all reviewers](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322#customerReviews) on Amazon except some doofus who admitted to not understanding anything. 
 
 ### Awards & notoriety
 
