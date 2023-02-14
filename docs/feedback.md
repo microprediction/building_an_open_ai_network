@@ -1,6 +1,5 @@
 # Feedback
 
-The [book](https://mitpress.mit.edu/9780262047326/microprediction/) is rated 5 stars by [all reviewers](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322#customerReviews) on Amazon ... except for one doofus who admitted to not understanding anything. 
 
 ### Awards & notoriety
 
@@ -10,8 +9,17 @@ The [book](https://mitpress.mit.edu/9780262047326/microprediction/) is rated 5 s
 
 * Analytics India [Must read 2022](https://analyticsindiamag.com/must-read-ai-books-released-in-2022/)
 
+The [book](https://mitpress.mit.edu/9780262047326/microprediction/) is rated 5 stars by [all reviewers](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322#customerReviews) on Amazon ... except for one doofus who admitted to not understanding anything. 
+
 
 ### Reviewers and social media recommendations
+
+---
+
+Rachid Lassoued, Global Head of Financial Engineering & Risk, Bloomberg
+
+>> Great initiative and quite innovative framework developed in your platform (and your great book which is certainly one of the most interesting read I had in 2022)
+
 
 ---
 
