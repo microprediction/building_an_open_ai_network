@@ -9,7 +9,7 @@
 
 * Analytics India [Must read 2022](https://analyticsindiamag.com/must-read-ai-books-released-in-2022/)
 
-The [book](https://mitpress.mit.edu/9780262047326/microprediction/) is rated 5 stars by [all reviewers](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322#customerReviews) on Amazon ... except for one doofus who admitted to not understanding anything. 
+The [book](https://mitpress.mit.edu/9780262047326/microprediction/) is rated 5 stars by [all reviewers](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322#customerReviews) on Amazon ... well almost. One doofus who admitted to not understanding anything but felt compelled to rate it anyway. Thank, dude. 
 
 
 ### Reviewers and social media recommendations
