@@ -18,7 +18,7 @@ The [book](https://mitpress.mit.edu/9780262047326/microprediction/) is rated 5 s
 
 Rachid Lassoued, Global Head of Financial Engineering & Risk, Bloomberg
 
->> Great initiative and quite innovative framework developed in your platform (and your great book which is certainly one of the most interesting read I had in 2022)
+>> Great initiative and quite innovative framework developed in your platform (and your great book which is certainly one of the most interesting reads I had in 2022)
 
 
 ---
