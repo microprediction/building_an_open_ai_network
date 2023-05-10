@@ -7,6 +7,8 @@
 
 * Named [Quant Book of the Year](https://www.einnews.com/pr_news/607159555/microprediction-named-quant-book-of-the-year-by-rebellion-research) by Rebellion Research, host of the MIT Quant and AI Conference. 
 
+* Eric Hoffer Award [Category Finalist](https://www.hofferaward.com/Eric-Hoffer-Award-category-finalists.html#.ZFwA7ezMK87)
+
 * Analytics India [Must read 2022](https://analyticsindiamag.com/must-read-ai-books-released-in-2022/)
 
 The [book](https://mitpress.mit.edu/9780262047326/microprediction/) is rated 5 stars by [all reviewers](https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322#customerReviews) on Amazon ... except by one self-confessed dufus. 
