@@ -544,6 +544,31 @@ a:hover {
   margin-bottom: 0;
 }
 
+.bio-summary {
+  margin-bottom: var(--space-sm);
+}
+
+.bio-expanded {
+  transition: var(--transition);
+}
+
+.bio-toggle {
+  background: none;
+  border: none;
+  color: var(--primary);
+  font-family: var(--font-secondary);
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: var(--space-xs) 0;
+  text-decoration: underline;
+  transition: var(--transition);
+}
+
+.bio-toggle:hover {
+  color: var(--primary-dark);
+}
+
 /* Audio Section */
 .audio-section {
   padding: var(--space-3xl) 0;

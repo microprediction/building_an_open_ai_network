@@ -690,6 +690,20 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+// Bio toggle functionality
+function toggleBio() {
+    const bioExpanded = document.getElementById('bioExpanded');
+    const bioToggle = document.getElementById('bioToggle');
+
+    if (bioExpanded.style.display === 'none') {
+        bioExpanded.style.display = 'block';
+        bioToggle.textContent = 'Read less';
+    } else {
+        bioExpanded.style.display = 'none';
+        bioToggle.textContent = 'Read more';
+    }
+}
+
 // Export for potential module usage
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = { AudioBookPlayer };
