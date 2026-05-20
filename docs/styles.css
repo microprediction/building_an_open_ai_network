@@ -1261,6 +1261,40 @@ a:hover {
   .hero-actions {
     justify-content: center;
   }
+
+  .ecosystem-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ecosystem-stats {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-md);
+    padding: var(--space-lg);
+  }
+
+  .card-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-xs);
+  }
+
+  .card-links {
+    flex-direction: column;
+  }
+
+  .card-link {
+    justify-content: center;
+  }
+
+  .start-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .start-buttons .cta-button {
+    width: 100%;
+    max-width: 280px;
+  }
 }
 
 @media (max-width: 480px) {
