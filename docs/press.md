@@ -12,7 +12,7 @@ call to action to create a utility as transformative as the web itself, one prov
 
 * As companies recognize the contradiction inherent in the artisan production of machine learning, they will cleave the open-ended search for models and data away from other business logic. 
 
-* In doing so they will encourage commoditization of microprediction and the super-exponential growth in a new and revolutionary construct: a fabric on which algorithms, data, entangled secrets and other strange denezins of a new micro-world provide a networked solution.
+* In doing so they will encourage commoditization of microprediction and the explosive growth in a new and revolutionary construct: a fabric on which algorithms, data, entangled secrets and other strange denizens of a new micro-world provide a networked solution.
 
 * The provision of useful operational intelligence, which is ultimately search in the space of models and data, will resemble the solution to document search, and prerequisite construction of backlinks, more than it resembles the creation of a new chemical in a lab, say, or a singular discovery by a machine learning expert or team.    
 
