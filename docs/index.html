@@ -31,22 +31,20 @@
     <nav class="navbar">
         <div class="nav-container">
             <div class="nav-brand">
-                <span class="brand-icon">🔮</span>
                 <span class="brand-text">Microprediction</span>
             </div>
             <div class="nav-links">
                 <a href="#book" class="nav-link">About</a>
                 <a href="#audio" class="nav-link">Listen</a>
                 <a href="#awards" class="nav-link">Awards</a>
-                <a href="#ecosystem" class="nav-link">Ecosystem</a>
                 <a href="#press" class="nav-link">Press</a>
             </div>
             <div class="audio-controls">
                 <button id="playButton" class="audio-btn" aria-label="Play current chapter">
-                    <span class="play-icon">🔊</span>
+                    Play
                 </button>
                 <button id="pauseButton" class="audio-btn hidden" aria-label="Pause audio">
-                    <span class="pause-icon">⏸️</span>
+                    Pause
                 </button>
             </div>
         </div>
@@ -71,32 +69,23 @@
                 </p>
 
                 <div class="hero-awards">
-                    <div class="award-item">🏆 MIT Press Top Book 2022</div>
-                    <div class="award-item">🥇 Quant Book of the Year</div>
-                    <div class="award-item">⭐ Highly Rated on Amazon</div>
+                    <div class="award-item">MIT Press Top Book 2022</div>
+                    <div class="award-item">Quant Book of the Year</div>
+                    <div class="award-item">Highly Rated on Amazon</div>
                 </div>
 
                 <div class="hero-actions">
                     <a href="https://mitpress.mit.edu/9780262047326/microprediction/" target="_blank" class="cta-button primary">
-                        <span>📖</span> Buy on MIT Press
+                        Buy on MIT Press
                     </a>
                     <a href="#audio" class="cta-button secondary">
-                        <span>🎧</span> Listen Free
+                        Listen Free
                     </a>
                     <a href="https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322" target="_blank" class="cta-button tertiary">
-                        <span>🛒</span> Amazon
+                        Amazon
                     </a>
                 </div>
 
-                <div class="quick-listen">
-                    <span class="quick-listen-label">Quick Listen:</span>
-                    <button class="quick-chapter-btn" data-audio="assets/audio/Microprediction_Chapter_1.mp3">
-                        Chapter 1
-                    </button>
-                    <button class="quick-chapter-btn" data-audio="assets/audio/02_overview.mp3">
-                        Overview
-                    </button>
-                </div>
             </div>
 
             <div class="hero-visual">
@@ -106,12 +95,6 @@
                          class="book-cover"
                          loading="eager">
                     <div class="book-glow"></div>
-                </div>
-                <div class="floating-elements">
-                    <div class="float-element" style="--delay: 0s">🤖</div>
-                    <div class="float-element" style="--delay: 2s">📊</div>
-                    <div class="float-element" style="--delay: 4s">🌐</div>
-                    <div class="float-element" style="--delay: 6s">🔮</div>
                 </div>
             </div>
         </div>
@@ -185,9 +168,9 @@
                                 </div>
                             </div>
                             <div class="player-controls">
-                                <button id="prevButton" class="control-btn" disabled>⏮️</button>
-                                <button id="playPauseButton" class="control-btn main-play-btn">▶️</button>
-                                <button id="nextButton" class="control-btn" disabled>⏭️</button>
+                                <button id="prevButton" class="control-btn" disabled>Previous</button>
+                                <button id="playPauseButton" class="control-btn main-play-btn">Play</button>
+                                <button id="nextButton" class="control-btn" disabled>Next</button>
                             </div>
                         </div>
 
@@ -204,7 +187,7 @@
 
                         <div class="player-footer">
                             <div class="volume-control">
-                                <span class="volume-icon">🔊</span>
+                                <label>Volume:</label>
                                 <input type="range" id="volumeSlider" min="0" max="100" value="80" class="volume-slider">
                             </div>
                             <div class="speed-control">
@@ -230,7 +213,7 @@
                             <h3>Front Matter</h3>
                             <p>Introduction and preface to the book</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
 
                     <div class="chapter-card" data-audio="assets/audio/Microprediction_Chapter_1.mp3">
@@ -239,7 +222,7 @@
                             <h3>Chapter 1</h3>
                             <p>The foundation of microprediction</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
 
                     <div class="chapter-card" data-audio="assets/audio/02_overview.mp3">
@@ -248,7 +231,7 @@
                             <h3>Overview</h3>
                             <p>High-level concepts and framework</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
 
                     <div class="chapter-card" data-audio="assets/audio/03_commercial_use.mp3">
@@ -257,7 +240,7 @@
                             <h3>Commercial Use</h3>
                             <p>Practical applications in business</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
 
                     <div class="chapter-card" data-audio="assets/audio/04_oracles.mp3">
@@ -266,7 +249,7 @@
                             <h3>Oracles</h3>
                             <p>Understanding prediction oracles</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
 
                     <div class="chapter-card" data-audio="assets/audio/05_economical_statistics.mp3">
@@ -275,7 +258,7 @@
                             <h3>Economical Statistics</h3>
                             <p>Statistical foundations and economics</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
 
                     <div class="chapter-card" data-audio="assets/audio/06_micro_managers.mp3">
@@ -284,7 +267,7 @@
                             <h3>Micro-Managers</h3>
                             <p>Management in distributed systems</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
 
                     <div class="chapter-card" data-audio="assets/audio/07_contests.mp3">
@@ -293,7 +276,7 @@
                             <h3>Contests</h3>
                             <p>Competitive prediction frameworks</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
 
                     <div class="chapter-card" data-audio="assets/audio/08_communication.mp3">
@@ -302,7 +285,7 @@
                             <h3>Communication</h3>
                             <p>Network communication protocols</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
 
                     <div class="chapter-card" data-audio="assets/audio/09_decisions.mp3">
@@ -311,7 +294,7 @@
                             <h3>Decisions</h3>
                             <p>Decision-making in AI networks</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
 
                     <div class="chapter-card" data-audio="assets/audio/10_privacy.mp3">
@@ -320,7 +303,7 @@
                             <h3>Privacy</h3>
                             <p>Privacy considerations and solutions</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
 
                     <div class="chapter-card" data-audio="assets/audio/11_afterword.mp3">
@@ -329,7 +312,7 @@
                             <h3>Afterword</h3>
                             <p>Conclusions and future directions</p>
                         </div>
-                        <button class="chapter-play-btn">▶️</button>
+                        <button class="chapter-play-btn">Play</button>
                     </div>
                 </div>
             </div>
@@ -340,31 +323,26 @@
                 <h2 class="section-title">Awards & Recognition</h2>
                 <div class="awards-grid">
                     <div class="award-card">
-                        <div class="award-icon">🏆</div>
                         <h3>MIT Press Top Books 2022</h3>
                         <p>Selected among the best books published by MIT Press in 2022</p>
                     </div>
 
                     <div class="award-card">
-                        <div class="award-icon">🥇</div>
                         <h3>Quant Book of the Year</h3>
                         <p>Named by Rebellion Research, host of the MIT Quant and AI Conference</p>
                     </div>
 
                     <div class="award-card">
-                        <div class="award-icon">🌟</div>
                         <h3>Eric Hoffer Award Finalist</h3>
                         <p>Category Finalist for the prestigious Eric Hoffer Award</p>
                     </div>
 
                     <div class="award-card">
-                        <div class="award-icon">📚</div>
                         <h3>Analytics India Must Read 2022</h3>
                         <p>Featured in Analytics India Magazine's Must Read AI Books</p>
                     </div>
 
                     <div class="award-card">
-                        <div class="award-icon">⭐</div>
                         <h3>Highly Rated on Amazon</h3>
                         <p>Consistently positive reviews from readers and AI practitioners</p>
                     </div>
@@ -408,154 +386,17 @@
                         <h3>Resources</h3>
                         <div class="links-grid">
                             <a href="feedback.html" class="press-link">
-                                <div class="link-icon">📝</div>
                                 <div class="link-content">
                                     <h4>Awards & Praise</h4>
                                     <p>Complete list of awards and critical acclaim</p>
                                 </div>
                             </a>
-
-                            <a href="https://github.com/microprediction/building_an_open_ai_network/issues" class="press-link" target="_blank">
-                                <div class="link-icon">💬</div>
-                                <div class="link-content">
-                                    <h4>Discussion</h4>
-                                    <p>Join the conversation on GitHub</p>
-                                </div>
-                            </a>
-
-                            <a href="https://microprediction.github.io/microprediction/setup" class="press-link" target="_blank">
-                                <div class="link-icon">🚀</div>
-                                <div class="link-content">
-                                    <h4>Get Started</h4>
-                                    <p>Instantly participate on Linux or macOS</p>
-                                </div>
-                            </a>
-
-                            <a href="https://github.com/microprediction/building_an_open_ai_network/issues/5" class="press-link" target="_blank">
-                                <div class="link-icon">📋</div>
-                                <div class="link-content">
-                                    <h4>Errata</h4>
-                                    <p>Book corrections and updates</p>
-                                </div>
-                            </a>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="ecosystem" class="ecosystem-section">
-            <div class="container">
-                <h2 class="section-title">The Microprediction Ecosystem</h2>
-                <p class="section-description">
-                    Explore the growing ecosystem of tools, libraries, and research that bring the book's vision to life
-                </p>
-
-                <div class="ecosystem-grid">
-                    <div class="ecosystem-card featured">
-                        <div class="card-header">
-                            <div class="card-icon">🚀</div>
-                            <h3>Microprediction.org</h3>
-                            <span class="card-badge">Live Platform</span>
-                        </div>
-                        <p>The live microprediction platform where you can participate in real-time AI competitions and contribute algorithms.</p>
-                        <div class="card-links">
-                            <a href="https://microprediction.org" target="_blank" class="card-link">
-                                <span>🌐</span> Visit Platform
-                            </a>
-                            <a href="https://github.com/microprediction/microprediction" target="_blank" class="card-link">
-                                <span>💻</span> GitHub Repo
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="ecosystem-card">
-                        <div class="card-header">
-                            <div class="card-icon">📝</div>
-                            <h3>Research & Blog</h3>
-                            <span class="card-badge">Active</span>
-                        </div>
-                        <p>Ongoing research, insights, and commentary on microprediction, AI networks, and distributed intelligence.</p>
-                        <div class="card-links">
-                            <a href="https://github.com/microprediction" target="_blank" class="card-link">
-                                <span>🔬</span> Research Hub
-                            </a>
-                            <a href="https://microprediction.medium.com" target="_blank" class="card-link">
-                                <span>📰</span> Medium Blog
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="ecosystem-card">
-                        <div class="card-header">
-                            <div class="card-icon">🛠️</div>
-                            <h3>Python Libraries</h3>
-                            <span class="card-badge">Open Source</span>
-                        </div>
-                        <p>Complete toolkit for building microprediction applications, from basic participation to advanced algorithm development.</p>
-                        <div class="card-links">
-                            <a href="https://github.com/microprediction/microprediction" target="_blank" class="card-link">
-                                <span>🐍</span> Main Library
-                            </a>
-                            <a href="https://microprediction.github.io/microprediction/" target="_blank" class="card-link">
-                                <span>📚</span> Documentation
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="ecosystem-card">
-                        <div class="card-header">
-                            <div class="card-icon">🎯</div>
-                            <h3>Live Examples</h3>
-                            <span class="card-badge">Interactive</span>
-                        </div>
-                        <p>Working examples, tutorials, and case studies demonstrating microprediction concepts in action.</p>
-                        <div class="card-links">
-                            <a href="https://github.com/microprediction/microprediction/tree/master/examples" target="_blank" class="card-link">
-                                <span>💡</span> Examples
-                            </a>
-                            <a href="https://microprediction.github.io/microprediction/setup" target="_blank" class="card-link">
-                                <span>🚀</span> Quick Start
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="ecosystem-card">
-                        <div class="card-header">
-                            <div class="card-icon">📊</div>
-                            <h3>Time Series Tools</h3>
-                            <span class="card-badge">Specialized</span>
-                        </div>
-                        <p>Advanced time series prediction tools and algorithms built on microprediction principles.</p>
-                        <div class="card-links">
-                            <a href="https://github.com/microprediction/timemachines" target="_blank" class="card-link">
-                                <span>⏰</span> Timemachines
-                            </a>
-                            <a href="https://github.com/microprediction/precise" target="_blank" class="card-link">
-                                <span>🎯</span> Precise
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="ecosystem-card">
-                        <div class="card-header">
-                            <div class="card-icon">🏆</div>
-                            <h3>Competitions</h3>
-                            <span class="card-badge">Ongoing</span>
-                        </div>
-                        <p>Active prediction competitions and leaderboards where algorithms compete in real-time.</p>
-                        <div class="card-links">
-                            <a href="https://microprediction.org/leaderboard" target="_blank" class="card-link">
-                                <span>🏅</span> Leaderboards
-                            </a>
-                            <a href="https://microprediction.github.io/microprediction/dashboard" target="_blank" class="card-link">
-                                <span>📈</span> Dashboard
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
 
         <section class="cta-section">
             <div class="container">
@@ -564,10 +405,10 @@
                     <p>Join the revolution in distributed artificial intelligence</p>
                     <div class="cta-buttons">
                         <a href="https://mitpress.mit.edu/9780262047326/microprediction/" target="_blank" class="cta-button primary large">
-                            <span>📖</span> Get the Book
+                            Get the Book
                         </a>
                         <a href="#audio" class="cta-button secondary large">
-                            <span>🎧</span> Start Listening
+                            Start Listening
                         </a>
                     </div>
                 </div>
@@ -606,8 +447,6 @@
                     <div class="footer-section">
                         <h4>Resources</h4>
                         <a href="feedback.html">Awards & Praise</a>
-                        <a href="https://microprediction.github.io/microprediction/setup" target="_blank">Get Started</a>
-                        <a href="https://github.com/microprediction/building_an_open_ai_network/issues/5" target="_blank">Errata</a>
                     </div>
                 </div>
             </div>
