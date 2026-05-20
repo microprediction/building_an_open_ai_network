@@ -505,11 +505,29 @@ a:hover {
 .author-details h4 {
   color: var(--text-primary);
   margin-bottom: var(--space-xs);
+  font-size: 1.25rem;
 }
 
-.author-details p {
+.author-title {
+  color: var(--primary-light);
+  font-weight: 600;
+  margin-bottom: var(--space-md);
+  font-size: 1rem;
+}
+
+.author-bio {
+  max-width: none;
+}
+
+.author-bio p {
   color: var(--text-secondary);
-  margin-bottom: var(--space-xs);
+  margin-bottom: var(--space-md);
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+.author-bio p:last-child {
+  margin-bottom: 0;
 }
 
 /* Audio Section */
