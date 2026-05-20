@@ -1012,76 +1012,6 @@ a:hover {
   border-color: var(--primary);
 }
 
-.ecosystem-stats {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: var(--space-lg);
-  margin: var(--space-xl) 0;
-  padding: var(--space-xl);
-  background: var(--background);
-  border-radius: var(--radius-lg);
-  border: 1px solid var(--border);
-}
-
-.ecosystem-stats .stat-item {
-  display: flex;
-  align-items: center;
-  gap: var(--space-md);
-  text-align: left;
-}
-
-.stat-icon {
-  font-size: 1.5rem;
-  padding: var(--space-sm);
-  background: var(--surface);
-  border-radius: var(--radius-md);
-  flex-shrink: 0;
-}
-
-.stat-content .stat-number {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: var(--primary-light);
-  line-height: 1.2;
-}
-
-.stat-content .stat-label {
-  font-size: 0.875rem;
-  color: var(--text-muted);
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  font-weight: 500;
-}
-
-.getting-started {
-  text-align: center;
-  padding: var(--space-xl);
-  background: var(--background);
-  border-radius: var(--radius-lg);
-  border: 1px solid var(--border);
-}
-
-.getting-started h3 {
-  color: var(--text-primary);
-  margin-bottom: var(--space-md);
-  font-size: 1.5rem;
-}
-
-.getting-started p {
-  color: var(--text-secondary);
-  font-size: 1.125rem;
-  margin-bottom: var(--space-lg);
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.start-buttons {
-  display: flex;
-  gap: var(--space-md);
-  justify-content: center;
-  flex-wrap: wrap;
-}
 
 /* CTA Section */
 .cta-section {
@@ -1266,12 +1196,6 @@ a:hover {
     grid-template-columns: 1fr;
   }
 
-  .ecosystem-stats {
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--space-md);
-    padding: var(--space-lg);
-  }
-
   .card-header {
     flex-direction: column;
     align-items: flex-start;
@@ -1284,16 +1208,6 @@ a:hover {
 
   .card-link {
     justify-content: center;
-  }
-
-  .start-buttons {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .start-buttons .cta-button {
-    width: 100%;
-    max-width: 280px;
   }
 }
 
