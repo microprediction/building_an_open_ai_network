@@ -339,17 +339,29 @@ a:hover {
   font-size: 1.125rem;
 }
 
-.quick-listen {
+.author-links {
   display: flex;
-  align-items: center;
-  gap: var(--space-sm);
+  gap: var(--space-lg);
+  margin-top: var(--space-lg);
   flex-wrap: wrap;
+  justify-content: center;
 }
 
-.quick-listen-label {
-  color: var(--text-muted);
-  font-size: 0.875rem;
+.author-link {
+  color: var(--primary);
   font-weight: 500;
+  padding: var(--space-xs) var(--space-sm);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  transition: var(--transition);
+  text-decoration: none;
+  font-family: var(--font-secondary);
+  font-size: 0.9rem;
+}
+
+.author-link:hover {
+  background: var(--surface);
+  border-color: var(--primary);
 }
 
 .quick-chapter-btn {
