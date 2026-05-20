@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microprediction: Building an Open AI Network | MIT Press</title>
+    <meta name="description" content="Award-winning book by Peter Cotton on building distributed AI networks. Featured audio content, MIT Press 2022.">
+    <meta name="keywords" content="AI, artificial intelligence, microprediction, machine learning, MIT Press, Peter Cotton">
+    <meta name="author" content="Peter Cotton">
+
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://microprediction.github.io/building_an_open_ai_network/">
+    <meta property="og:title" content="Microprediction: Building an Open AI Network">
+    <meta property="og:description" content="Award-winning book on building distributed AI networks. MIT Press 2022.">
+    <meta property="og:image" content="https://microprediction.github.io/building_an_open_ai_network/assets/images/cotton_microprediction_3d_side.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://microprediction.github.io/building_an_open_ai_network/">
+    <meta property="twitter:title" content="Microprediction: Building an Open AI Network">
+    <meta property="twitter:description" content="Award-winning book on building distributed AI networks. MIT Press 2022.">
+    <meta property="twitter:image" content="https://microprediction.github.io/building_an_open_ai_network/assets/images/cotton_microprediction_3d_side.png">
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔮</text></svg>">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <span class="brand-icon">🔮</span>
+                <span class="brand-text">Microprediction</span>
+            </div>
+            <div class="nav-links">
+                <a href="#book" class="nav-link">About</a>
+                <a href="#audio" class="nav-link">Listen</a>
+                <a href="#awards" class="nav-link">Awards</a>
+                <a href="#press" class="nav-link">Press</a>
+            </div>
+            <div class="audio-controls">
+                <button id="playButton" class="audio-btn" aria-label="Play current chapter">
+                    <span class="play-icon">🔊</span>
+                </button>
+                <button id="pauseButton" class="audio-btn hidden" aria-label="Pause audio">
+                    <span class="pause-icon">⏸️</span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-container">
+            <div class="hero-content">
+                <div class="hero-badge">
+                    <span class="badge-text">MIT Press • November 2022</span>
+                </div>
+                <h1 class="hero-title">
+                    Microprediction
+                </h1>
+                <h2 class="hero-subtitle">
+                    Building an Open AI Network
+                </h2>
+                <p class="hero-description">
+                    What if there was a source of intelligence, akin to an electrical outlet,
+                    which was easy for anyone to plug into? This book is a call to action to create
+                    a utility as transformative as the web itself.
+                </p>
+
+                <div class="hero-awards">
+                    <div class="award-item">🏆 MIT Press Top Book 2022</div>
+                    <div class="award-item">🥇 Quant Book of the Year</div>
+                    <div class="award-item">⭐ 5-Star Amazon Rating</div>
+                </div>
+
+                <div class="hero-actions">
+                    <a href="https://mitpress.mit.edu/9780262047326/microprediction/" target="_blank" class="cta-button primary">
+                        <span>📖</span> Buy on MIT Press
+                    </a>
+                    <a href="#audio" class="cta-button secondary">
+                        <span>🎧</span> Listen Free
+                    </a>
+                    <a href="https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322" target="_blank" class="cta-button tertiary">
+                        <span>🛒</span> Amazon
+                    </a>
+                </div>
+
+                <div class="quick-listen">
+                    <span class="quick-listen-label">Quick Listen:</span>
+                    <button class="quick-chapter-btn" data-audio="assets/audio/Microprediction_Chapter_1.mp3">
+                        Chapter 1
+                    </button>
+                    <button class="quick-chapter-btn" data-audio="assets/audio/02_overview.mp3">
+                        Overview
+                    </button>
+                </div>
+            </div>
+
+            <div class="hero-visual">
+                <div class="book-cover-container">
+                    <img src="assets/images/cotton_microprediction_3d_side.png"
+                         alt="Microprediction book cover"
+                         class="book-cover"
+                         loading="eager">
+                    <div class="book-glow"></div>
+                </div>
+                <div class="floating-elements">
+                    <div class="float-element" style="--delay: 0s">🤖</div>
+                    <div class="float-element" style="--delay: 2s">📊</div>
+                    <div class="float-element" style="--delay: 4s">🌐</div>
+                    <div class="float-element" style="--delay: 6s">🔮</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <section id="book" class="book-section">
+            <div class="container">
+                <h2 class="section-title">About the Book</h2>
+                <div class="book-content">
+                    <div class="book-description">
+                        <div class="description-text">
+                            <h3>A Revolutionary Vision for AI</h3>
+                            <p>
+                                Prognostications on the future of artificial intelligence have long taken on
+                                the flavor of science fiction. But long before any far-flung visions are realized,
+                                a profound reconstruction of the way industry uses analytics will occur.
+                            </p>
+                            <p>
+                                As companies recognize the contradiction inherent in the artisan production of
+                                machine learning, they will cleave the open-ended search for models and data away
+                                from other business logic.
+                            </p>
+                            <p>
+                                In doing so they will encourage commoditization of microprediction and the
+                                super-exponential growth in a new and revolutionary construct: a fabric on which
+                                algorithms, data, entangled secrets and other strange denizens of a new micro-world
+                                provide a networked solution.
+                            </p>
+                        </div>
+
+                        <div class="author-section">
+                            <div class="author-info">
+                                <img src="assets/images/cotton.microprediction.png"
+                                     alt="Peter Cotton"
+                                     class="author-photo">
+                                <div class="author-details">
+                                    <h4>Peter Cotton</h4>
+                                    <p>Author & AI Researcher</p>
+                                    <p>Peter Cotton is a researcher and practitioner in the field of artificial intelligence and quantitative finance.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="audio" class="audio-section">
+            <div class="container">
+                <h2 class="section-title">Listen to the Book</h2>
+                <p class="section-description">
+                    Experience the book through high-quality audio. Perfect for commuting, exercising, or relaxing.
+                </p>
+
+                <div class="audio-player-container">
+                    <div class="audio-player">
+                        <div class="player-header">
+                            <div class="now-playing">
+                                <div class="track-info">
+                                    <h3 id="currentTrackTitle">Select a chapter to begin</h3>
+                                    <p id="currentTrackSubtitle">Microprediction: Building an Open AI Network</p>
+                                </div>
+                            </div>
+                            <div class="player-controls">
+                                <button id="prevButton" class="control-btn" disabled>⏮️</button>
+                                <button id="playPauseButton" class="control-btn main-play-btn">▶️</button>
+                                <button id="nextButton" class="control-btn" disabled>⏭️</button>
+                            </div>
+                        </div>
+
+                        <div class="progress-container">
+                            <div class="time-display">
+                                <span id="currentTime">0:00</span>
+                                <span id="duration">0:00</span>
+                            </div>
+                            <div class="progress-bar">
+                                <div class="progress-fill" id="progressFill"></div>
+                                <input type="range" id="progressSlider" min="0" max="100" value="0" class="progress-slider">
+                            </div>
+                        </div>
+
+                        <div class="player-footer">
+                            <div class="volume-control">
+                                <span class="volume-icon">🔊</span>
+                                <input type="range" id="volumeSlider" min="0" max="100" value="80" class="volume-slider">
+                            </div>
+                            <div class="speed-control">
+                                <label for="speedSelect">Speed:</label>
+                                <select id="speedSelect">
+                                    <option value="0.75">0.75x</option>
+                                    <option value="1" selected>1x</option>
+                                    <option value="1.25">1.25x</option>
+                                    <option value="1.5">1.5x</option>
+                                    <option value="2">2x</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <audio id="audioPlayer" preload="none"></audio>
+                </div>
+
+                <div class="chapters-grid">
+                    <div class="chapter-card" data-audio="assets/audio/01_front_matter.mp3">
+                        <div class="chapter-number">01</div>
+                        <div class="chapter-content">
+                            <h3>Front Matter</h3>
+                            <p>Introduction and preface to the book</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+
+                    <div class="chapter-card" data-audio="assets/audio/Microprediction_Chapter_1.mp3">
+                        <div class="chapter-number">02</div>
+                        <div class="chapter-content">
+                            <h3>Chapter 1</h3>
+                            <p>The foundation of microprediction</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+
+                    <div class="chapter-card" data-audio="assets/audio/02_overview.mp3">
+                        <div class="chapter-number">03</div>
+                        <div class="chapter-content">
+                            <h3>Overview</h3>
+                            <p>High-level concepts and framework</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+
+                    <div class="chapter-card" data-audio="assets/audio/03_commercial_use.mp3">
+                        <div class="chapter-number">04</div>
+                        <div class="chapter-content">
+                            <h3>Commercial Use</h3>
+                            <p>Practical applications in business</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+
+                    <div class="chapter-card" data-audio="assets/audio/04_oracles.mp3">
+                        <div class="chapter-number">05</div>
+                        <div class="chapter-content">
+                            <h3>Oracles</h3>
+                            <p>Understanding prediction oracles</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+
+                    <div class="chapter-card" data-audio="assets/audio/05_economical_statistics.mp3">
+                        <div class="chapter-number">06</div>
+                        <div class="chapter-content">
+                            <h3>Economical Statistics</h3>
+                            <p>Statistical foundations and economics</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+
+                    <div class="chapter-card" data-audio="assets/audio/06_micro_managers.mp3">
+                        <div class="chapter-number">07</div>
+                        <div class="chapter-content">
+                            <h3>Micro-Managers</h3>
+                            <p>Management in distributed systems</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+
+                    <div class="chapter-card" data-audio="assets/audio/07_contests.mp3">
+                        <div class="chapter-number">08</div>
+                        <div class="chapter-content">
+                            <h3>Contests</h3>
+                            <p>Competitive prediction frameworks</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+
+                    <div class="chapter-card" data-audio="assets/audio/08_communication.mp3">
+                        <div class="chapter-number">09</div>
+                        <div class="chapter-content">
+                            <h3>Communication</h3>
+                            <p>Network communication protocols</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+
+                    <div class="chapter-card" data-audio="assets/audio/09_decisions.mp3">
+                        <div class="chapter-number">10</div>
+                        <div class="chapter-content">
+                            <h3>Decisions</h3>
+                            <p>Decision-making in AI networks</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+
+                    <div class="chapter-card" data-audio="assets/audio/10_privacy.mp3">
+                        <div class="chapter-number">11</div>
+                        <div class="chapter-content">
+                            <h3>Privacy</h3>
+                            <p>Privacy considerations and solutions</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+
+                    <div class="chapter-card" data-audio="assets/audio/11_afterword.mp3">
+                        <div class="chapter-number">12</div>
+                        <div class="chapter-content">
+                            <h3>Afterword</h3>
+                            <p>Conclusions and future directions</p>
+                        </div>
+                        <button class="chapter-play-btn">▶️</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="awards" class="awards-section">
+            <div class="container">
+                <h2 class="section-title">Awards & Recognition</h2>
+                <div class="awards-grid">
+                    <div class="award-card">
+                        <div class="award-icon">🏆</div>
+                        <h3>MIT Press Top Books 2022</h3>
+                        <p>Selected among the best books published by MIT Press in 2022</p>
+                    </div>
+
+                    <div class="award-card">
+                        <div class="award-icon">🥇</div>
+                        <h3>Quant Book of the Year</h3>
+                        <p>Named by Rebellion Research, host of the MIT Quant and AI Conference</p>
+                    </div>
+
+                    <div class="award-card">
+                        <div class="award-icon">🌟</div>
+                        <h3>Eric Hoffer Award Finalist</h3>
+                        <p>Category Finalist for the prestigious Eric Hoffer Award</p>
+                    </div>
+
+                    <div class="award-card">
+                        <div class="award-icon">📚</div>
+                        <h3>Analytics India Must Read 2022</h3>
+                        <p>Featured in Analytics India Magazine's Must Read AI Books</p>
+                    </div>
+
+                    <div class="award-card">
+                        <div class="award-icon">⭐</div>
+                        <h3>5-Star Amazon Rating</h3>
+                        <p>Rated 5 stars by all Amazon reviewers (except one self-confessed dufus)</p>
+                    </div>
+                </div>
+
+                <div class="testimonials">
+                    <h3>What Readers Are Saying</h3>
+                    <div class="testimonial-grid">
+                        <div class="testimonial-card">
+                            <div class="testimonial-content">
+                                <p>"A revolutionary approach to artificial intelligence that challenges conventional thinking."</p>
+                                <div class="testimonial-author">— Amazon Reviewer</div>
+                            </div>
+                        </div>
+                        <div class="testimonial-card">
+                            <div class="testimonial-content">
+                                <p>"Essential reading for anyone interested in the future of AI and distributed systems."</p>
+                                <div class="testimonial-author">— Industry Expert</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="press" class="press-section">
+            <div class="container">
+                <h2 class="section-title">Press & Media</h2>
+                <div class="press-content">
+                    <div class="elevator-pitch">
+                        <h3>Elevator Pitch</h3>
+                        <p class="pitch-text">
+                            What if there was a source of intelligence, akin to an electrical outlet,
+                            which was easy for anyone to plug into? The book is a call to action to create
+                            a utility as transformative as the web itself, one providing AI to everyone
+                            at arbitrarily low cost.
+                        </p>
+                    </div>
+
+                    <div class="press-links">
+                        <h3>Resources</h3>
+                        <div class="links-grid">
+                            <a href="feedback.html" class="press-link">
+                                <div class="link-icon">📝</div>
+                                <div class="link-content">
+                                    <h4>Awards & Praise</h4>
+                                    <p>Complete list of awards and critical acclaim</p>
+                                </div>
+                            </a>
+
+                            <a href="https://github.com/microprediction/building_an_open_ai_network/issues" class="press-link" target="_blank">
+                                <div class="link-icon">💬</div>
+                                <div class="link-content">
+                                    <h4>Discussion</h4>
+                                    <p>Join the conversation on GitHub</p>
+                                </div>
+                            </a>
+
+                            <a href="https://microprediction.github.io/microprediction/setup" class="press-link" target="_blank">
+                                <div class="link-icon">🚀</div>
+                                <div class="link-content">
+                                    <h4>Get Started</h4>
+                                    <p>Instantly participate on Linux or macOS</p>
+                                </div>
+                            </a>
+
+                            <a href="https://github.com/microprediction/building_an_open_ai_network/issues/5" class="press-link" target="_blank">
+                                <div class="link-icon">📋</div>
+                                <div class="link-content">
+                                    <h4>Errata</h4>
+                                    <p>Book corrections and updates</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="cta-section">
+            <div class="container">
+                <div class="cta-content">
+                    <h2>Ready to Explore Microprediction?</h2>
+                    <p>Join the revolution in distributed artificial intelligence</p>
+                    <div class="cta-buttons">
+                        <a href="https://mitpress.mit.edu/9780262047326/microprediction/" target="_blank" class="cta-button primary large">
+                            <span>📖</span> Get the Book
+                        </a>
+                        <a href="#audio" class="cta-button secondary large">
+                            <span>🎧</span> Start Listening
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-main">
+                    <div class="footer-brand">
+                        <span class="brand-icon">🔮</span>
+                        <span class="brand-text">Microprediction</span>
+                    </div>
+                    <p class="footer-description">
+                        Building an Open AI Network — A revolutionary approach to artificial intelligence.
+                    </p>
+                </div>
+
+                <div class="footer-links">
+                    <div class="footer-section">
+                        <h4>Book</h4>
+                        <a href="https://mitpress.mit.edu/9780262047326/microprediction/" target="_blank">MIT Press</a>
+                        <a href="https://www.amazon.com/Microprediction-Building-Open-AI-Network/dp/0262047322" target="_blank">Amazon</a>
+                        <a href="#audio">Audio Version</a>
+                    </div>
+
+                    <div class="footer-section">
+                        <h4>Community</h4>
+                        <a href="https://github.com/microprediction/building_an_open_ai_network/discussions" target="_blank">Discussions</a>
+                        <a href="https://microprediction.github.io/microprediction/slack.html" target="_blank">Slack</a>
+                        <a href="https://github.com/microprediction/building_an_open_ai_network/issues" target="_blank">Issues</a>
+                    </div>
+
+                    <div class="footer-section">
+                        <h4>Resources</h4>
+                        <a href="feedback.html">Awards & Praise</a>
+                        <a href="https://microprediction.github.io/microprediction/setup" target="_blank">Get Started</a>
+                        <a href="https://github.com/microprediction/building_an_open_ai_network/issues/5" target="_blank">Errata</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2022 Peter Cotton. Published by MIT Press. Website designed for optimal mobile listening experience.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

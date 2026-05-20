@@ -1,0 +1,66 @@
+{
+  "name": "Microprediction: Building an Open AI Network",
+  "short_name": "Microprediction",
+  "description": "Award-winning book by Peter Cotton on building distributed AI networks. MIT Press 2022.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "scope": "/building_an_open_ai_network/",
+  "categories": ["books", "education", "technology"],
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔮</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/cotton_microprediction_3d_side.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Listen to Audio",
+      "short_name": "Listen",
+      "description": "Start listening to the audiobook",
+      "url": "/#audio",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎧</text></svg>",
+          "sizes": "any"
+        }
+      ]
+    },
+    {
+      "name": "Buy Book",
+      "short_name": "Buy",
+      "description": "Purchase from MIT Press",
+      "url": "https://mitpress.mit.edu/9780262047326/microprediction/",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>",
+          "sizes": "any"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='390' height='844' style='background:linear-gradient(135deg,%230f172a%200%25,%231e293b%20100%25)'><rect width='100%25' height='100%25'/><text x='195' y='400' text-anchor='middle' fill='white' font-family='Arial' font-size='24'>Microprediction</text><text x='195' y='450' text-anchor='middle' fill='%23e2e8f0' font-family='Arial' font-size='16'>Building an Open AI Network</text></svg>",
+      "sizes": "390x844",
+      "type": "image/svg+xml",
+      "form_factor": "narrow",
+      "label": "Mobile view of the book website"
+    }
+  ],
+  "features": [
+    "audio-player",
+    "mobile-optimized",
+    "offline-reading"
+  ]
+}

@@ -1,1 +1,31 @@
 theme: jekyll-theme-hacker
+
+# Custom settings to prioritize our modern design
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# SEO and metadata
+title: "Microprediction: Building an Open AI Network"
+description: "Award-winning book by Peter Cotton on building distributed AI networks. MIT Press 2022."
+author: "Peter Cotton"
+url: "https://microprediction.github.io"
+baseurl: "/building_an_open_ai_network"
+
+# Social media
+twitter:
+  username: microprediction
+  card: summary_large_image
+
+# Book metadata
+book:
+  title: "Microprediction: Building an Open AI Network"
+  author: "Peter Cotton"
+  publisher: "MIT Press"
+  year: 2022
+  isbn: "9780262047326"
+
+# Audio settings
+audio:
+  enabled: true
+  chapters: 12
